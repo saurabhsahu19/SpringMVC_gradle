@@ -1,8 +1,7 @@
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.saurabh.Employee;
-
-import configuration.EmployeeConfiguration;
+import com.saurabh.configuration.EmployeeConfiguration;
 
 public class EmployeeTest {
 
