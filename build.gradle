@@ -44,7 +44,7 @@ buildscript {
 gretty {
 //port is deprecated
   httpPort = 8080
-  contextPath = 'spring4'
+  contextPath = 'Spring_Gradle_Project'
   servletContainer = 'jetty9' //tomcat7 or tomcat8
 }
 
@@ -55,7 +55,7 @@ eclipse {
     component {
 
       //define context path, default to project folder name
-      contextPath = 'spring4'
+      contextPath = 'Spring_Gradle_Project'
 
     }
 
